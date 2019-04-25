@@ -1,0 +1,1466 @@
+[
+    {
+        "isoName": "AED",
+        "name": "UAE Dirham",
+        "fractionSize": 2,
+        "symbolGrapheme": ".د.إ",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "AFN",
+        "name": "Afghani",
+        "fractionSize": 2,
+        "symbolGrapheme": "؋",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "ALL",
+        "name": "Lek",
+        "fractionSize": 2,
+        "symbolGrapheme": "L",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "AMD",
+        "name": "Armenian Dram",
+        "fractionSize": 2,
+        "symbolGrapheme": "դր.",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ANG",
+        "name": "Netherlands Antillean Guilder",
+        "fractionSize": 2,
+        "symbolGrapheme": "ƒ",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "AOA",
+        "name": "Kwanza",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ARS",
+        "name": "Argentine Peso",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "AUD",
+        "name": "Australian Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "AWG",
+        "name": "Aruban Florin",
+        "fractionSize": 2,
+        "symbolGrapheme": "ƒ",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "AZN",
+        "name": "Azerbaijanian Manat",
+        "fractionSize": 2,
+        "symbolGrapheme": "₼",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BAM",
+        "name": "Convertible Mark",
+        "fractionSize": 2,
+        "symbolGrapheme": "KM",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BBD",
+        "name": "Barbados Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BDT",
+        "name": "Taka",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BGN",
+        "name": "Bulgarian Lev",
+        "fractionSize": 2,
+        "symbolGrapheme": "лв",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BHD",
+        "name": "Bahraini Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.ب",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "BIF",
+        "name": "Burundi Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BMD",
+        "name": "Bermudian Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BND",
+        "name": "Brunei Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BOB",
+        "name": "Boliviano",
+        "fractionSize": 2,
+        "symbolGrapheme": "Bs.",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BOV",
+        "name": "Mvdol",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BRL",
+        "name": "Brazilian Real",
+        "fractionSize": 2,
+        "symbolGrapheme": "R$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BSD",
+        "name": "Bahamian Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BTN",
+        "name": "Ngultrum",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BWP",
+        "name": "Pula",
+        "fractionSize": 2,
+        "symbolGrapheme": "P",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BYN",
+        "name": "Belarussian Ruble",
+        "fractionSize": 2,
+        "symbolGrapheme": "p.",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BYR",
+        "name": "Belarussian Ruble",
+        "fractionSize": 0,
+        "symbolGrapheme": "p.",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BZD",
+        "name": "Belize Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "BZ$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CAD",
+        "name": "Canadian Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CDF",
+        "name": "Congolese Franc",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CHE",
+        "name": "WIR Euro",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CHF",
+        "name": "Swiss Franc",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CHW",
+        "name": "WIR Franc",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CLF",
+        "name": "Unidad de Fomento",
+        "fractionSize": 4,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CLP",
+        "name": "Chilean Peso",
+        "fractionSize": 0,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CNY",
+        "name": "Yuan Renminbi",
+        "fractionSize": 2,
+        "symbolGrapheme": "元",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "COP",
+        "name": "Colombian Peso",
+        "fractionSize": 0,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "COU",
+        "name": "Unidad de Valor Real",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CRC",
+        "name": "Cost Rican Colon",
+        "fractionSize": 2,
+        "symbolGrapheme": "₡",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CUC",
+        "name": "Peso Convertible",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CUP",
+        "name": "Cuban Peso",
+        "fractionSize": 2,
+        "symbolGrapheme": "$MN",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CVE",
+        "name": "Cabo Verde Escudo",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "CZK",
+        "name": "Czech Koruna",
+        "fractionSize": 2,
+        "symbolGrapheme": "Kč",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "DJF",
+        "name": "Djibouti Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "DKK",
+        "name": "Danish Krone",
+        "fractionSize": 2,
+        "symbolGrapheme": "kr",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "DOP",
+        "name": "Dominican Peso",
+        "fractionSize": 2,
+        "symbolGrapheme": "RD$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "DZD",
+        "name": "Algerian Dinar",
+        "fractionSize": 2,
+        "symbolGrapheme": ".د.ج",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "EEK",
+        "name": "Estonian Kroon",
+        "fractionSize": 2,
+        "symbolGrapheme": "kr",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "EGP",
+        "name": "Egyptian Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ERN",
+        "name": "Nakfa",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ETB",
+        "name": "Ethiopian Birr",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "EUR",
+        "name": "Euro",
+        "fractionSize": 2,
+        "symbolGrapheme": "€",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "FJD",
+        "name": "Fiji Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "FKP",
+        "name": "Falkland Islands Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GBP",
+        "name": "Pound Sterling",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GEL",
+        "name": "Lari",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GGP",
+        "name": "Guernsey Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GHC",
+        "name": "Ghanaian Cedi",
+        "fractionSize": 2,
+        "symbolGrapheme": "¢",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GHS",
+        "name": "Ghan Cedi",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GIP",
+        "name": "Gibraltar Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GMD",
+        "name": "Dalasi",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GNF",
+        "name": "Guine Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GTQ",
+        "name": "Quetzal",
+        "fractionSize": 2,
+        "symbolGrapheme": "Q",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "GYD",
+        "name": "Guyan Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "HKD",
+        "name": "Hong Kong Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "HNL",
+        "name": "Lempira",
+        "fractionSize": 2,
+        "symbolGrapheme": "L",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "HRK",
+        "name": "Croatian Kuna",
+        "fractionSize": 2,
+        "symbolGrapheme": "kn",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "HTG",
+        "name": "Gourde",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "HUF",
+        "name": "Forint",
+        "fractionSize": 0,
+        "symbolGrapheme": "Ft",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "IDR",
+        "name": "Rupiah",
+        "fractionSize": 2,
+        "symbolGrapheme": "Rp",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ILS",
+        "name": "New Israeli Sheqel",
+        "fractionSize": 2,
+        "symbolGrapheme": "₪",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "IMP",
+        "name": "Manx Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "INR",
+        "name": "Indian Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₹",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "IQD",
+        "name": "Iraqi Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.ع",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "IRR",
+        "name": "Iranian Rial",
+        "fractionSize": 0,
+        "symbolGrapheme": "﷼",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "ISK",
+        "name": "Iceland Krona",
+        "fractionSize": 2,
+        "symbolGrapheme": "kr",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "JEP",
+        "name": "Jersey Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "JMD",
+        "name": "Jamaican Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "J$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "JOD",
+        "name": "Jordanian Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.إ",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "JPY",
+        "name": "Yen",
+        "fractionSize": 0,
+        "symbolGrapheme": "¥",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KES",
+        "name": "Kenyan Shilling",
+        "fractionSize": 2,
+        "symbolGrapheme": "KSh",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KGS",
+        "name": "Som",
+        "fractionSize": 2,
+        "symbolGrapheme": "сом",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KHR",
+        "name": "Riel",
+        "fractionSize": 2,
+        "symbolGrapheme": "៛",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KMF",
+        "name": "Comoro Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KPW",
+        "name": "North Korean Won",
+        "fractionSize": 0,
+        "symbolGrapheme": "₩",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KRW",
+        "name": "Won",
+        "fractionSize": 0,
+        "symbolGrapheme": "₩",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KWD",
+        "name": "Kuwaiti Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.ك",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "KYD",
+        "name": "Cayman Islands Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "KZT",
+        "name": "Tenge",
+        "fractionSize": 2,
+        "symbolGrapheme": "₸",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LAK",
+        "name": "Kip",
+        "fractionSize": 2,
+        "symbolGrapheme": "₭",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LBP",
+        "name": "Lebanese Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LKR",
+        "name": "Sri Lank Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₨",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LRD",
+        "name": "Liberian Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LSL",
+        "name": "Loti",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LTL",
+        "name": "Lithuanian Litas",
+        "fractionSize": 2,
+        "symbolGrapheme": "Lt",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LVL",
+        "name": "Latvian Lats",
+        "fractionSize": 2,
+        "symbolGrapheme": "Ls",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LYD",
+        "name": "Libyan Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.ل",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "MAD",
+        "name": "Moroccan Dirham",
+        "fractionSize": 2,
+        "symbolGrapheme": ".د.م",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "MDL",
+        "name": "Moldovan Leu",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MGA",
+        "name": "Malagasy ariary",
+        "fractionSize": 1,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MKD",
+        "name": "Denar",
+        "fractionSize": 2,
+        "symbolGrapheme": "ден",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MMK",
+        "name": "Kyat",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MNT",
+        "name": "Tugrik",
+        "fractionSize": 2,
+        "symbolGrapheme": "₮",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MOP",
+        "name": "Pataca",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MRO",
+        "name": "Ouguiya",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MUR",
+        "name": "Mauritius Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₨",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MVR",
+        "name": "Rufiyaa",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MWK",
+        "name": "Kwacha",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MXN",
+        "name": "Mexican Peso",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MXV",
+        "name": "Mexican Unidad de Inversion (UDI)",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MYR",
+        "name": "Malaysian Ringgit",
+        "fractionSize": 2,
+        "symbolGrapheme": "RM",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "MZN",
+        "name": "Mozambique Metical",
+        "fractionSize": 2,
+        "symbolGrapheme": "MT",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NAD",
+        "name": "Namibi Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NGN",
+        "name": "Naira",
+        "fractionSize": 2,
+        "symbolGrapheme": "₦",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NIO",
+        "name": "Cordob Oro",
+        "fractionSize": 2,
+        "symbolGrapheme": "C$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NOK",
+        "name": "Norwegian Krone",
+        "fractionSize": 2,
+        "symbolGrapheme": "kr",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NPR",
+        "name": "Nepalese Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₨",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "NZD",
+        "name": "New Zealand Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "OMR",
+        "name": "Rial Omani",
+        "fractionSize": 3,
+        "symbolGrapheme": "﷼",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "PAB",
+        "name": "Balboa",
+        "fractionSize": 2,
+        "symbolGrapheme": "B/.",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PEN",
+        "name": "Nuevo Sol",
+        "fractionSize": 2,
+        "symbolGrapheme": "S/",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PGK",
+        "name": "Kina",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PHP",
+        "name": "Philippine Peso",
+        "fractionSize": 2,
+        "symbolGrapheme": "₱",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PKR",
+        "name": "Pakistan Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₨",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PLN",
+        "name": "Zloty",
+        "fractionSize": 2,
+        "symbolGrapheme": "zł",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "PYG",
+        "name": "Guarani",
+        "fractionSize": 0,
+        "symbolGrapheme": "Gs",
+        "symbolTemplate": "1$",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "QAR",
+        "name": "Qatari Rial",
+        "fractionSize": 2,
+        "symbolGrapheme": "﷼",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "RON",
+        "name": "New Romanian Leu",
+        "fractionSize": 2,
+        "symbolGrapheme": "lei",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "RSD",
+        "name": "Serbian Dinar",
+        "fractionSize": 2,
+        "symbolGrapheme": "Дин.",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "RUB",
+        "name": "Russian Ruble",
+        "fractionSize": 2,
+        "symbolGrapheme": "₽",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "RUR",
+        "name": "Russian Ruble",
+        "fractionSize": 2,
+        "symbolGrapheme": "₽",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "RWF",
+        "name": "Rwand Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SAR",
+        "name": "Saudi Riyal",
+        "fractionSize": 2,
+        "symbolGrapheme": "﷼",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "SBD",
+        "name": "Solomon Islands Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SCR",
+        "name": "Seychelles Rupee",
+        "fractionSize": 2,
+        "symbolGrapheme": "₨",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SDG",
+        "name": "Sudanese Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SEK",
+        "name": "Swedish Krona",
+        "fractionSize": 2,
+        "symbolGrapheme": "kr",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SGD",
+        "name": "Singapore Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SHP",
+        "name": "Saint Helen Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SLL",
+        "name": "Leone",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SOS",
+        "name": "Somali Shilling",
+        "fractionSize": 2,
+        "symbolGrapheme": "S",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SRD",
+        "name": "Surinam Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SSP",
+        "name": "South Sudanese Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "STD",
+        "name": "Dobra",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SVC",
+        "name": "El Salvador Colon",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SYP",
+        "name": "Syrian Pound",
+        "fractionSize": 2,
+        "symbolGrapheme": "£",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "SZL",
+        "name": "Lilangeni",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "THB",
+        "name": "Baht",
+        "fractionSize": 2,
+        "symbolGrapheme": "฿",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TJS",
+        "name": "Somoni",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TMT",
+        "name": "Turkmenistan New Manat",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TND",
+        "name": "Tunisian Dinar",
+        "fractionSize": 3,
+        "symbolGrapheme": ".د.ت",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "TOP",
+        "name": "Pa’anga",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TRL",
+        "name": "Turkish Lira",
+        "fractionSize": 2,
+        "symbolGrapheme": "₤",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TRY",
+        "name": "Turkish Lira",
+        "fractionSize": 2,
+        "symbolGrapheme": "₺",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TTD",
+        "name": "Trinidad and Tobago Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "TT$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TWD",
+        "name": "New Taiwan Dollar",
+        "fractionSize": 0,
+        "symbolGrapheme": "NT$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "TZS",
+        "name": "Tanzanian Shilling",
+        "fractionSize": 0,
+        "symbolGrapheme": "TSh",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "UAH",
+        "name": "Hryvnia",
+        "fractionSize": 2,
+        "symbolGrapheme": "₴",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "UGX",
+        "name": "Ugand Shilling",
+        "fractionSize": 0,
+        "symbolGrapheme": "USh",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "USD",
+        "name": "US Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "USN",
+        "name": "US Dollar (Next day)",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "UYI",
+        "name": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "UYU",
+        "name": "Peso Uruguayo",
+        "fractionSize": 0,
+        "symbolGrapheme": "$U",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "UZS",
+        "name": "Uzbekistan Sum",
+        "fractionSize": 2,
+        "symbolGrapheme": "so’m",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "VEF",
+        "name": "Bolivar",
+        "fractionSize": 2,
+        "symbolGrapheme": "Bs",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "VES",
+        "name": "Bolivar",
+        "fractionSize": 2,
+        "symbolGrapheme": "Bs",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "VND",
+        "name": "Dong",
+        "fractionSize": 0,
+        "symbolGrapheme": "₫",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "VUV",
+        "name": "Vatu",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "WST",
+        "name": "Tala",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XAF",
+        "name": "CFA Franc BEAC",
+        "fractionSize": 0,
+        "symbolGrapheme": "FCFA",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XCD",
+        "name": "East Caribbean Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XDR",
+        "name": "SDR (Special Drawing Right)",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XOF",
+        "name": "CFA Franc BCEAO",
+        "fractionSize": 0,
+        "symbolGrapheme": "CFA",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XPF",
+        "name": "CFP Franc",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XSU",
+        "name": "Sucre",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "XUA",
+        "name": "ADB Unit of Account",
+        "fractionSize": 0,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "YER",
+        "name": "Yemeni Rial",
+        "fractionSize": 2,
+        "symbolGrapheme": "﷼",
+        "symbolTemplate": "1 $",
+        "symbolRtl": true
+    },
+    {
+        "isoName": "ZAR",
+        "name": "Rand",
+        "fractionSize": 2,
+        "symbolGrapheme": "R",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ZMW",
+        "name": "Zambian Kwacha",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ZWD",
+        "name": "Zimbabwe Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "Z$",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ZWL",
+        "name": "Zimbabwe Dollar",
+        "fractionSize": 2,
+        "symbolGrapheme": "",
+        "symbolTemplate": "$1",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "BTC",
+        "name": "BTC",
+        "fractionSize": 4,
+        "symbolGrapheme": "₿",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "ETH",
+        "name": "ETH",
+        "fractionSize": 4,
+        "symbolGrapheme": "Ξ",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    },
+    {
+        "isoName": "LTC",
+        "name": "LTC",
+        "fractionSize": 4,
+        "symbolGrapheme": "Ł",
+        "symbolTemplate": "1 $",
+        "symbolRtl": false
+    }
+]

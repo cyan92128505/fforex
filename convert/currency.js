@@ -1,9 +1,10 @@
 const _ = require('lodash');
+const Decimal = require('decimal.js');
 
 const forexList = {
-    USD: 30,
-    TWD: 1,
-    CNY: 5,
+    USD: new Decimal(1),
+    TWD: new Decimal(30),
+    CNY: new Decimal(6),
 };
 
 const defaultCurrent = 'TWD';
@@ -16,19 +17,29 @@ function detectCurrency(currency) {
 }
 
 function getOtherRateList(sourceCurrency, amount) {
+    const source = new Decimal(amount);
     let dict = {};
-    Object.keys(forexList)
-        .filter(c => c != sourceCurrency)
-        .forEach(c => {
-            dict[c] = (amount * forexList[c]) / forexList[sourceCurrency];
-        });
+    Object.keys(forexList).forEach(c => {
+        if (c === sourceCurrency) {
+            dict[c] = source.valueOf();
+            return;
+        }
+
+        dict[c] = source
+            .mul(forexList[c])
+            .div(forexList[sourceCurrency])
+            .valueOf();
+    });
 
     return dict;
 }
 
-module.exports = function(currency, amount) {
-    const _current = detectCurrency(currency);
-    const _amount = _.isNumber(+amount) ? +amount : 0;
+module.exports = {
+    convert: function(currency, amount) {
+        const _current = detectCurrency(currency);
+        const _amount = _.isNumber(+amount) ? +amount : 0;
 
-    return getOtherRateList(_current, _amount);
+        return getOtherRateList(_current, _amount);
+    },
+    list: () => forexList,
 };
