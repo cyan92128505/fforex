@@ -1,9 +1,10 @@
 const fs = require('fs-extra');
 const path = require('path');
 const _ = require('lodash');
-const SYMBOL = '[[SYMBOL]]';
+const SYMBOL = '__SYMBOL__';
+const MONEY = '__AMOUNT__';
 
-const candidateCurrencyList = ['USD', 'TWD', 'CNY'];
+const candidateCurrencyList = ['USD', 'VND', 'THB', 'CNY'];
 
 function detectNum(target) {
     return _.isNumber(target) ? target : `'${target}'`;
@@ -26,10 +27,9 @@ function generator() {
                     grapheme: `${
                         c.symbol ? c.symbol.grapheme.replace('$', `\\$$`) : ''
                     }`,
-                    template: `${c.symbol ? c.symbol.template : '$1'}`.replace(
-                        '$',
-                        SYMBOL,
-                    ),
+                    template: `${c.symbol ? c.symbol.template : '$1'}`
+                        .replace('$', SYMBOL)
+                        .replace('1', MONEY),
                     rtl: c.symbol ? c.symbol.rtl : false,
                 }))
                 .map(
